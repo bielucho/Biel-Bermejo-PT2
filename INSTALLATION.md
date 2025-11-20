@@ -21,7 +21,7 @@ sudo systemctl start apache2
 ```bash
 sudo systemctl status apache2
 ```
-Visite `http://localhost` para ver la p\Uffffffffna Apache predeterminada.
+Visite `http://localhost` para ver la pagina Apache predeterminada.
 
 ### 3. **Instalar MySQL**
 
@@ -42,3 +42,55 @@ Sudo systemctl iniciar mysql
 ```bash
 Sudo mysql
 ```
+### Creación de base de datos
+```sal
+CREAR BASE DE DATOS bbdd;
+```
+
+#### Creación del usuario local
+```sal
+CREAR USUARIO 'user'@'localhost' IDENTIFICADO CON mysql_native_password POR 'password';
+OTORGAR TODOS LOS PRIVILEGIOS EN BBDD. * A 'usero'@'localhost';
+PRIVILEGIOS DE RAFAGA;
+SALIDA;
+
+> **Nota:** Este usuario solo puede conectarse desde el servidor local (`localhost`), que es suficiente si la aplicacion web y la base de datos están en el mismo servidor.
+
+
+## 4. **Instalar PHP y extensiones comunes** 
+
+Ubuntu 24.04 incluye PHP 8.3 en repositorios estándar
+
+```bash
+sudo apt install php libapache2-mod-php php-mysql php-gd php-mbstring php-xml php-zip php-json php-cli-y
+```
+
+**Reinicio Apache para cargar PHP:**
+```bash
+Sudo systemctl reinicio apache2
+```
+
+**Verificar la version de PHP:**
+```bash
+php -v
+```
+
+**Crear un archivo de prueba:**
+```bash
+"echo<? php phpinfo(); ? >" | sudo tee /var/www/html/info.php
+```
+
+Visite `http://localhost/info.php` para ver la informacion de PHP.
+
+> **Medida de seguridad:** Una vez que haya comprobado que funciona, elimine el archivo:
+> ```bash
+> sudo rm /var/www/html/info.php
+> ```
+
+### Verificación final
+
+La pila LAMP ahora deberia estar operativa con:
+- **Apache** que sirve paginas web.
+- **MySQL** listo para almacenar datos.
+- **PHP** scripts de procesamiento.
+
