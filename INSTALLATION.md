@@ -94,3 +94,7 @@ La pila LAMP ahora deberia estar operativa con:
 - **MySQL** listo para almacenar datos.
 - **PHP** scripts de procesamiento.
 
+# Configuración VirtualHost con Apache2
+## Introducción 
+
+Un servidor web como Apache2 le permite alojar varios sitios web de forma independiente en la misma máquina. Esta funcionalidad se logra a traves de **VirtualHosts** (hosts virtuales). Cada VirtualHost define un sitio web único con su propio nombre de dominio, directorio raíz y configuración especifica.
