@@ -1,5 +1,5 @@
 ### En esta parte de este repositorio es para hacer la explicacion de la instalación
-## 1. Instalacion de LAMP stack a Ubuntu 24.04
+# 1. Instalacion de LAMP stack a Ubuntu 24.04
 
 Antes de empezar con todo debemos de abrir este punto con nombre: "Instalacion de LAMP stack a Ubuntu 24.04"
 
