@@ -1,3 +1,7 @@
+# Configuration.md
+
+### Creation accounts: https://github.com/bielucho/Biel-Bermejo-PT2/blob/4388c36c1f19b4750012e84c6164a7ea88fcfa99/CONFIGURATION(%20Creation%20Accounts).md
+
 # Demostracion del Funcionamiento
 
 ## 1. Subir archivos (en este caso una imagen)
