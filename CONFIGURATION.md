@@ -32,9 +32,13 @@ Dentro de ese directorio puedes añadir algun archivo para ver que realmente lo 
 <img width="885" height="408" alt="Captura de pantalla 2025-11-27 141330" src="https://github.com/user-attachments/assets/e0a3786b-dada-40ad-add5-a43d9e181eb8" />
 
 ## 3.Enlaces 
-<img width="887" height="633" alt="Captura de pantalla 2025-11-27 141734" src="https://github.com/user-attachments/assets/8c0e20f9-e5f1-4a84-a4fd-a00ae37c567c" />
 
+Cuando le demos encima de archivo o carpeta que queramos compartir saldra este interfaz donde saldra lo siguiente. Para compartir por ejemplo la carpeta yo le he dado a create public link (publico pero solo para los que tienen el enlace en su poder) 
 <img width="884" height="562" alt="Captura de pantalla 2025-11-27 141605" src="https://github.com/user-attachments/assets/60b3c93a-b102-442c-bdfa-7aa3ad87256d" />
+
+Ahi nos saldra el link hecho y ya 
+<img width="887" height="633" alt="Captura de pantalla 2025-11-27 141734" src="https://github.com/user-attachments/assets/8c0e20f9-e5f1-4a84-a4fd-a00ae37c567c" /> 
+
 
 
 
