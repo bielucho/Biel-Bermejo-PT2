@@ -86,6 +86,8 @@ Una vez compartidos nos tendra que salir esto:
 <img width="308" height="575" alt="Captura de pantalla 2025-12-08 173621" src="https://github.com/user-attachments/assets/de91481c-b8a5-4aa5-a96d-23cddc43acaa" />
 
 
+
+
 Que ahí es donde nos demuestra el rol de cada grupo y lo que pueden hacer y lo que no.
 
 
