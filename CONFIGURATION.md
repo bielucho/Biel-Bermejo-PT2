@@ -1,6 +1,5 @@
 # Configuration.md
 
-### Creation accounts: https://github.com/bielucho/Biel-Bermejo-PT2/blob/4388c36c1f19b4750012e84c6164a7ea88fcfa99/CONFIGURATION(%20Creation%20Accounts).md
 
 # Demostracion del Funcionamiento
 
@@ -10,7 +9,6 @@
 
 1. <img width="385" height="427" alt="Captura de pantalla 2025-11-27 142156" src="https://github.com/user-attachments/assets/c99b2edc-0b7d-4a5c-9d53-e62b9f2c5808" />
 2. <img width="860" height="497" alt="Captura de pantalla 2025-11-27 142239" src="https://github.com/user-attachments/assets/92cf549a-3516-4598-806f-bc90381d9a59" />
-
 
 
 > Nota: Para verificar que ha sido subida con exito puedes entrar en tu archivo y ver si te deja acceder a ello.
@@ -50,6 +48,26 @@ Ahi nos saldra el link hecho y ya podremos compartir ese enlace con quien queram
 Para crear otras cuentas en tu nextcloud debemos de darle encima de tu usuario el cual aparece arriba en la esquina de la derecha y una vez estemos encima le vamos a dar a "Accounts" 
 
 <img width="343" height="537" alt="Captura de pantalla 2025-12-08 163556" src="https://github.com/user-attachments/assets/f3768477-563f-4ed3-8d10-8334a87e39e3" />
+
+### (2) 
+Cuando hayamo hecho el paso anterior nos dirige a la pantalla que tenemos en la siguiente imagen:
+
+<img width="888" height="430" alt="Captura de pantalla 2025-12-08 165841" src="https://github.com/user-attachments/assets/fe8b3110-20ea-43ef-a30b-f3c1dc3b8b6d" />
+
+Tendremos que darle a las 3 barritas que nos saldran arriba a la izquierda para desplegar el menu donde nos deja acceder para crear cuentas y ponerles su rol a cada una de ellas que es lo que muestro en la iguiente imagen: 
+
+<img width="1855" height="903" alt="Create accounts" src="https://github.com/user-attachments/assets/adf6cc2d-3bf7-4f0d-8398-83d060ee938b" />
+
+Aqui vemos los requisitos que nos pide para crear esas cuentas:
+- Nombre
+- Contraseña o Email
+- rol de esa cuenta (en esta imagen es la cuenta admin pero para asignarle otros roles solo tenemos que escribir: editor. y se pone)
+- Quota, que yo en este caso no he puesto nada
+- Manager
+
+Y asi seguidamente para crear las siguientes cuentas en mi caso les he puesto(biel1, biel2, biel3)
+
+----
 
 
 
