@@ -43,6 +43,14 @@ Cuando le demos encima de archivo o carpeta que queramos compartir saldra este i
 Ahi nos saldra el link hecho y ya podremos compartir ese enlace con quien queramos y ese usuario pueda acceder tranquilamente sin problema a esa carpeta/archivo, etc...
 <img width="887" height="633" alt="Captura de pantalla 2025-11-27 141734" src="https://github.com/user-attachments/assets/8c0e20f9-e5f1-4a84-a4fd-a00ae37c567c" /> 
 
+----
+
+# Creacion de cuentas 
+### (1)
+Para crear otras cuentas en tu nextcloud debemos de darle encima de tu usuario el cual aparece arriba en la esquina de la derecha y una vez estemos encima le vamos a dar a "Accounts" 
+
+<img width="343" height="537" alt="Captura de pantalla 2025-12-08 163556" src="https://github.com/user-attachments/assets/f3768477-563f-4ed3-8d10-8334a87e39e3" />
+
 
 
 
